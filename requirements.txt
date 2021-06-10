@@ -1,36 +1,8 @@
-absl-py==0.12.0
-alabaster==0.7.12
-altair==4.1.0
-appdirs==1.4.4
-argh==0.26.2
-asn1crypto==1.3.0
 DateTime==4.3
-decorator==4.4.2
-distlib==0.3.2
-distributed @ file:///C:/ci/distributed_1594742844291/work
-docutils==0.16
 Keras==2.4.3
 Keras-Preprocessing==1.1.2
-keyring @ file:///C:/ci/keyring_1593109799227/work
-MarkupSafe==1.1.1
-matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
-numba==0.50.1
-numexpr==2.7.1
 numpy==1.19.5
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
-oauthlib==3.1.0
-packaging==20.4
-pandas @ file:///C:/ci/pandas_1592833613419/work
-py @ file:///tmp/build/80754af9/py_1593446248552/work
-python-dateutil==2.8.1
-python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1594397536060/work
-python-language-server @ file:///C:/ci/python-language-server_1594162130238/work
-python-slugify==4.0.1
-regex @ file:///C:/ci/regex_1593419644658/work
-requests @ file:///tmp/build/80754af9/requests_1592841827918/work
-requests-oauthlib==1.3.0
-scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
-scipy @ file:///C:/ci/scipy_1592916963468/work
-sklearn==0.0
+pandas
+requests
 streamlit==0.71.0
-
+time
