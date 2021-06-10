@@ -4,5 +4,5 @@ Keras-Preprocessing==1.1.2
 numpy==1.19.5
 pandas
 requests
-streamlit==0.71.0
+streamlit
 time
