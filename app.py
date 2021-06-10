@@ -5,7 +5,7 @@ import pandas as pd
 # adding title and text in the app
 
 import requests
-from keras.models import load_model
+from tensorflow import keras
 import numpy as np
 # import time
 from datetime import datetime
@@ -273,7 +273,7 @@ if len(name)>1:
 
 								#Loading the saved best model
 
-								model=load_model('model_800.h5')
+								model=keras.models.load_model('model_800.h5')
 
 								if st.button("Predict"):
 									 
