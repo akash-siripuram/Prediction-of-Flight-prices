@@ -5,3 +5,4 @@ numpy==1.19.5
 pandas
 requests
 streamlit
+tensorflow
