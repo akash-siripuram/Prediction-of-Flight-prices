@@ -285,7 +285,7 @@ if len(name)>1:
 									# st.write(start_time)
 									# st.write(end_time)
 
-									st.warning("Fare Predicted in {} seconds".format(round(end_time-start_time,2)))
+									#st.warning("Fare Predicted in {} seconds".format(round(end_time-start_time,2)))
 
 									flag=1
 
