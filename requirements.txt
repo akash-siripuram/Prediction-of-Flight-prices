@@ -1,8 +1,0 @@
-DateTime==4.3
-Keras
-Keras-Preprocessing
-numpy==1.19.5
-pandas
-requests
-streamlit
-tensorflow>2.0
